@@ -1,0 +1,16 @@
+body {
+    color: white;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2.5em;
+}
+
+canvas {
+    border: 2px solid white;
+}
